@@ -1,7 +1,7 @@
 from kivy.config import Config
 Config.set('graphics', 'resizable', False)
-Config.set('graphics', 'width', '270')
-Config.set('graphics', 'height', '465')
+Config.set('graphics', 'width', '340')
+Config.set('graphics', 'height', '575')
 
 from kivy.app import App
 from kivy.uix.gridlayout import GridLayout
